@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SinopFilms</string>
+    <string name="api_key" translatable="false">c98a9535e80ef078773ef6ba86d546bc</string>
+    <string name="web_service_url_banner" translatable="false">https://image.tmdb.org/t/p/w500/%s</string>
+    <string name="web_service_url_genero" translatable="false">https://api.themoviedb.org/3/genre/movie/list?api_key=%s&amp;amp;language=%s</string>
+    <string name="web_service_url_filme" translatable="false">https://api.themoviedb.org/3/discover/movie?api_key=%s&amp;language=%s&amp;sort_by=popularity.desc&amp;with_genres=%s</string>
+    <string name="lang">en-Us</string>
+    <string name="tituloDoFilme">titulo filme</string>
+</resources>
